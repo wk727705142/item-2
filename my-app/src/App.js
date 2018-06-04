@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        成功
+        成功|我是王怡
       </div>
     );
   }
